@@ -35,9 +35,9 @@
 
   
 
-  **Exercício Prático: Crie um novo projeto usando o Spring Initializr.**
+  **Exercício Prático: Crie um novo projeto usando o Spring Initializr**:
 
-  [https://github.com/VancleyVieira/trilhaDeConhecimentoSpring/tree/main](https://github.com/VancleyVieira/trilhaDeConhecimentoSpring/tree/main)
+  https://github.com/VancleyVieira/trilhaDeConhecimentoSpring/tree/main/trilhaDeConhecimentoSpring
 
   
 
